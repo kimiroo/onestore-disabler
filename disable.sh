@@ -31,7 +31,7 @@ echo ""
 
 echo "Clearing app data..."
 echo " - $pkg_name"
-pm clear $pkg_name
+pm clear "$pkg_name"
 echo " - com.skt.skaf.OA00018282"
 pm clear com.skt.skaf.OA00018282
 echo ""
