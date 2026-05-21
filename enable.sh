@@ -7,6 +7,7 @@ echo " - com.kt.olleh.storefront"
 cmd package install-existing com.kt.olleh.storefront
 echo " - com.skt.skaf.OA00018282"
 cmd package install-existing com.skt.skaf.OA00018282
+echo""
 
 echo "Uninstalling updates..."
 echo " - com.kt.olleh.storefront"
