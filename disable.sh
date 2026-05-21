@@ -16,7 +16,7 @@ elif [ "$device_csc" -eq "SKC" ]; then
   pkg_name="com.skt.skaf.A000Z00040"
 else
   echo "\nUnsupported CSC."
-  echo "Please install Onestore manually."
+  echo "Please uninstall Onestore manually."
   exit 1
 fi
 
