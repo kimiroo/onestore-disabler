@@ -4,9 +4,9 @@ echo "=== Onestore disabler ===\n"
 
 echo "Uninstalling updates..."
 echo " - com.kt.olleh.storefront"
-uninstall com.kt.olleh.storefront
+pm uninstall com.kt.olleh.storefront
 echo " - com.skt.skaf.OA00018282"
-uninstall com.skt.skaf.OA00018282
+pm uninstall com.skt.skaf.OA00018282
 echo ""
 
 echo "Clearing app data..."
